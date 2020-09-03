@@ -1,7 +1,7 @@
 ### FullOfOrange
 
-Hi, I'm backend and infrastructure junior developer
-Currently I'm play with Node.js, TS, GraphQL and k8s
+Hi, I'm backend and infrastructure junior developer  
+Currently I'm play with Node.js, TS, GraphQL and k8s  
 
 <!-- 
 My favorite tech stacks: 

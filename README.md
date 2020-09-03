@@ -1,6 +1,6 @@
 ### FullOfOrange
 
-Hi, I'm backend junior developer  
+Hi, I'm junior backend developer  
 Currently I'm play with Node.js, TS, GraphQL and k8s  
 
 <!-- 

@@ -1,7 +1,7 @@
 ### FullOfOrange
 
 Hi, I'm interested in backend and infrastructure  
-Currently I'm play with node and kubernetes at @festa-inc  
+Currently I'm play with Node.js and k8s at @festa-inc  
 
 My favorite tech stacks:
 

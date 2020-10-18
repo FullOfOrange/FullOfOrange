@@ -2,8 +2,8 @@
 
 Code must be fast and readable
 
-Hi, I'm junior backend developer  
-Currently I'm play with Node.js, TS, GraphQL and k8s  
+Hi, I'm backend developer in korea
+Currently I'm work with Node.js, TS, GraphQL and k8s
 Also, You can check my activity in [Gitlab](https://gitlab.com/FullOfOrange)
 
 <!-- 

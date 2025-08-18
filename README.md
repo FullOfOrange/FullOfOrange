@@ -3,10 +3,11 @@
 ### Introductions
 
 Hi, I'm backend developer in korea  
-Currently I'm work with `Spring`, `Kotlin` at **[@daangn](https://github.com/daangn)**
+Currently I'm work with `Spring`, `Java` at **[@coupang](https://github.com/coupang)**
 
 ### Expreience
 
+- **coupang**: Backend Engineer
 - **daangn**: Backend Engineer
 - **festa.io**: Software Engineer
 

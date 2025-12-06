@@ -5,11 +5,24 @@
 Hi, I'm backend developer in korea  
 Currently I'm work with `Spring`, `Java` at **[@coupang](https://github.com/coupang)**
 
+
+
 ### Expreience
 
-- **coupang**: Backend Engineer
-- **daangn**: Backend Engineer
-- **festa.io**: Software Engineer
+- **[@coupang](https://github.com/coupang)**: Staff Backend Engineer
+  * Developing new business initiatives
+
+
+- **[@daangn](https://github.com/daangn)**: Software Engineer
+  * Joined the team through **festa talent acquisition**
+  * First backend engineer for Daangn Meetings, significantly contributing to **growth up to 500k MAU**
+
+
+- **festa.io**: Lead Software Engineer
+  * Built an event hosting platform in Korea
+  * As lead developer at a small startup, **designed and developed across all areas**: backend, frontend, and infrastructure
+
+
 
 ### Contributions
 

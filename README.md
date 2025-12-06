@@ -8,6 +8,9 @@ I'm deeply interested in the **JVM** and **Spring ecosystem**, and I'm currently
 Previously, I worked extensively with **Node.js** and **React**, and I'm still capable of designing and developing web applications at a fundamental level.
 
 
+Contact me: **foorgdev@gmail.com**
+
+
 ### Expreience
 
 - **[@coupang](https://github.com/coupang)**: Staff Backend Engineer [25.06 - Current]
@@ -37,7 +40,3 @@ Previously, I worked extensively with **Node.js** and **React**, and I'm still c
   - (PR) [feat!: EXPOSED-109 change implement of spring transaction manager](https://github.com/JetBrains/Exposed/pull/1840)
   - (PR) [docs: EXPOSED-124 Add Spring Boot samples](https://github.com/JetBrains/Exposed/pull/1826)
   - (PR) [feat: Add spring mutli container support](https://github.com/JetBrains/Exposed/pull/1781)
-
-
-Contact me: **foorgdev@gmail.com**
-

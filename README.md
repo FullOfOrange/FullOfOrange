@@ -2,23 +2,24 @@
 
 ### Introductions
 
-Hi, I'm backend developer in korea  
-Currently I'm work with `Spring`, `Java` at **[@coupang](https://github.com/coupang)**
+Hi, I'm backend developer in korea. Currently I'm work with **Spring**, **Java** at **[@coupang](https://github.com/coupang)**.
 
+I'm deeply interested in the **JVM** and **Spring ecosystem**, and I'm currently expanding my knowledge in **Kotlin**. 
+Previously, I worked extensively with **Node.js** and **React**, and I'm still capable of designing and developing web applications at a fundamental level.
 
 
 ### Expreience
 
-- **[@coupang](https://github.com/coupang)**: Staff Backend Engineer
+- **[@coupang](https://github.com/coupang)**: Staff Backend Engineer [25.06 - Current]
   * Developing new business initiatives
 
 
-- **[@daangn](https://github.com/daangn)**: Software Engineer
+- **[@daangn](https://github.com/daangn)**: Software Engineer [22.01 - 25.06]
   * Joined the team through **festa talent acquisition**
   * First backend engineer for Daangn Meetings, significantly contributing to **growth up to 500k MAU**
 
 
-- **festa.io**: Lead Software Engineer
+- **festa.io**: Lead Software Engineer [20.05 - 21.12]
   * Built an event hosting platform in Korea
   * As lead developer at a small startup, **designed and developed across all areas**: backend, frontend, and infrastructure
 

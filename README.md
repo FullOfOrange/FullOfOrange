@@ -19,7 +19,7 @@ Contact me: **foorgdev@gmail.com**
 
 - **[@daangn](https://github.com/daangn)**: Software Engineer [22.01 - 25.06]
   * Joined the team through **festa talent acquisition**
-  * First backend engineer for Daangn Meetings, significantly contributing to **growth up to 500k MAU**
+  * First backend engineer, **Group platform team (당근모임)**, significantly contributing to **growth up to 500k MAU**
 
 
 - **festa.io**: Lead Software Engineer [20.05 - 21.12]
